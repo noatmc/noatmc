@@ -1,8 +1,16 @@
-### hi, i am noat.
-- a sci-math class student who have a soft spot for java and kotlin
-### languages
-- java [2/5] - pretty bad
-- kt [1/5] - terrible
-### projects
-- delta+
-- 711.club
+# hi, i am noat.
+just someone from thailand trying to code and play mc
+# about me
+i am a sci-math student who is currently learning how to code
+# coding languages
+- Java - 3/5 not that good, could be worse.
+- RLua - 2/5 enough to do simple stuff.
+- Kotlin - 2/5 still not used to the syntax and stuff
+- Python - 1/5 i forgot how to code it already.
+# stuff i have done
+- Delta - worst client in existance
+- SexHack - terrible wp2 skid
+# stuff i am making
+- Aloe - my custombase client
+# stuff i am contributing to
+- Neutron - oyvey skid, just there to fix catuquei's code
