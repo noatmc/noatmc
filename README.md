@@ -1,4 +1,5 @@
 # hi, i am noat.
+---
 just someone from thailand trying to code and play mc
 # about me
 i am a sci-math student who is currently learning how to code
