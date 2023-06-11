@@ -11,9 +11,10 @@ i am a sci-math student who is currently learning how to code
 # stuff i have done
 - Delta - worst client in existance
 - SexHack - terrible wp2 skid
+- Aloe - my old custombase client
 # stuff i am making
-- Aloe - my custombase client
+- deoxy - custom base client me and catuquei are making
 # stuff i am contributing to
 - neutron - just there to fix catuquei's ~~orginal~~ code
-- deoxy - custom base client me and catuquei are making
+
 
