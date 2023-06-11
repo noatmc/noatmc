@@ -14,4 +14,6 @@ i am a sci-math student who is currently learning how to code
 # stuff i am making
 - Aloe - my custombase client
 # stuff i am contributing to
-- Neutron - oyvey skid, just there to fix catuquei's code
+- neutron - just there to fix catuquei's ~~orginal~~ code
+- deoxy - custom base client me and catuquei are making
+
